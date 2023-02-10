@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyectoFinal.model
 {
-    internal class Usuario
+    public  class Usuario
     {
         private long id;
         private string nombre;
